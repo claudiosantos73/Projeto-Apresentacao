@@ -5,7 +5,7 @@
 
 <h2>Tecnologias utilizadas</h2>
 <br>
-  - HTML <br>
-  - CSS
+  <p> - HTML</P>
+  <p> - CSS </p>
   
 <img src="https://github.com/claudiosantos73/Projeto-Apresentacao/blob/main/Assets/Girl-CellPhone.png?raw=true"/>
